@@ -1,6 +1,6 @@
 # Network Attack Investigation: TCP SYN Flood DoS Analysis
 
-**Analyst:** Nake Nsanimesi Pius  
+**Analyst:** Nake Nsani mesi Pius  
 **Tools & Protocols:** Wireshark Packet Logs, TCP/IP (Three-Way Handshake), HTTPS (Port 443), HTTP  
 **Incident Summary:** Analyzed TCP/HTTP network traffic logs to identify a direct Denial of Service (DoS) SYN flood attack causing connection resets and gateway timeouts for internal web users.
 

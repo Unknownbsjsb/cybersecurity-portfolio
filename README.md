@@ -1,7 +1,7 @@
 # cybersecurity-portfolio
 # Internal Security Audit & Compliance Assessment: Botium Toys
 
-**Analyst:** Nake Nsanimesi Pius  
+**Analyst:** Nake Nsan mesi Pius  
 **Frameworks & Standards:** NIST CSF (Identify), PCI DSS, GDPR, SOC 1 & SOC 2  
 **Deliverables:** Risk Assessment Analysis, Controls Checklist, Compliance Gap Analysis, Stakeholder Recommendations
 

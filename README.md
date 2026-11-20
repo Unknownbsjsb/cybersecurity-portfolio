@@ -5,7 +5,7 @@
 **Frameworks & Standards:** NIST CSF (Identify), PCI DSS, GDPR, SOC 1 & SOC 2  
 **Deliverables:** Risk Assessment Analysis, Controls Checklist, Compliance Gap Analysis, Stakeholder Recommendations
 
----
+
 
 ## 1. Executive Summary & Scope
 Conducted a comprehensive internal security and compliance audit for **Botium Toys** to evaluate existing IT assets, administrative/technical/physical controls, and regulatory readiness. Based on missing technical safeguards and unclassified assets, the organization carried a **High Risk Score (8/10)**.
